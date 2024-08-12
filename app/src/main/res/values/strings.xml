@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Qpin</string>
+
+    <string name="btm_home">홈</string>
+    <string name="btm_qr">QR생성</string>
+    <string name="btm_parking">간편주차</string>
+    <string name="btm_find_car">차량찾기</string>
+    <string name="btm_insurance">내보험</string>
+
 </resources>

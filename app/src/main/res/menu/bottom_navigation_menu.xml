@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:title="@string/btm_home"
+        android:icon="@drawable/ic_home_unselect"
+        android:enabled="true"/>
+    <item
+        android:id="@+id/nav_qr"
+        android:title="@string/btm_qr"
+        android:icon="@drawable/ic_qr_unselect"/>
+    <item
+        android:id="@+id/nav_parking"
+        android:title="@string/btm_parking"
+        android:icon="@drawable/ic_parking_unselect"/>
+    <item
+        android:id="@+id/nav_frag_find_car"
+        android:title="@string/btm_find_car"
+        android:icon="@drawable/ic_fine_car_unselect"/>
+    <item
+        android:id="@+id/nav_insurance"
+        android:title="@string/btm_insurance"
+        android:icon="@drawable/ic_insurance_unselect"/>
+</menu>
